@@ -147,28 +147,28 @@ https://random.ngrok-free.app/api/sms
 📸 Screenshots
 
 Signup and Login page:
-![Signup and Login Page](assets/Login and Signup.png)
+![Signup and Login Page](assets/login-signup.png)
 
 Empty Dashboard:
-![Empty Dashboard Page](assets/Empty Orders.png)
+![Empty Dashboard Page](assets/empty-orders.png)
 
 Creation of order:
-![Creation Page](assets/Creating order.png)
+![Creation Page](assets/create-order.png)
 
 Editing item order:
-![Empty Dashboard Page](assets/Empty Orders.png)
+![Empty Dashboard Page](assets/edit-item.png)
 
 Item addition in menu:
-![Item addition in menu](assets/Item addition in menu.png)
+![Item addition in menu](assets/item-addition.png)
 
 Active order in dashboard:
-![Active order](assets/Active orders to start.png)
+![Active order](assets/active-order.png)
 
 Order almost ready:
-![Order almost ready](assets/Order almost ready.png)
+![Order almost ready](assets/order-almost_ready.png)
 
 Order ready and to be picked up:
-![Order ready](assets/Order ready.png)
+![Order ready](assets/order-ready.png)
 
 
 ⭐ Contributions & Support
