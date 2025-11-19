@@ -147,7 +147,7 @@ https://random.ngrok-free.app/api/sms
 📸 Screenshots
 
 Signup and Login page:
-![Signup and Login Page](assets/Login and Signup.png)
+![Signup and Login Page](Activity-point-tracker/assets/Login and Signup.png)
 
 Empty Dashboard:
 ![Empty Dashboard Page](assets/Empty Orders.png)
